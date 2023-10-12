@@ -1,0 +1,260 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 140rem;
+}.header8-ho7 {
+  box-sizing: border-box;
+  padding: 8.5rem 11.1rem 16.3rem 11.1rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/image-bg-qHj.png');
+  background-color: #2f1893;
+}
+.header8-ho7 .header-menu-pMw {
+  margin: 0rem 36.4rem 13.6rem 35.5rem;
+  width: calc(100% - 71.9rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.header8-ho7 .header-menu-pMw .home-iy7 {
+  margin-right: 4.4rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.4444444444;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header8-ho7 .header-menu-pMw .features-eLy {
+  margin-right: 4.4rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.4444444444;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header8-ho7 .header-menu-pMw .pricing-nCH {
+  margin-right: 4.3rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.4444444444;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header8-ho7 .header-menu-pMw .blog-vZP {
+  margin-right: 4.3rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.4444444444;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header8-ho7 .header-menu-pMw .fa-dribbble-TpD {
+  margin: 0.14rem 4.5rem 0rem 0rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: FontAwesome, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header8-ho7 .header-menu-pMw .fa-behance-BER {
+  margin-top: 0.14rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: FontAwesome, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header8-ho7 .auto-group-7vk5-hCm {
+  margin-bottom: 4.8rem;
+  width: 100%;
+  height: 26.3rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.header8-ho7 .auto-group-7vk5-hCm .arrows-ds7 {
+  width: 117.8rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 0;
+  top: 8.2rem;
+  display: flex;
+  align-items: center;
+}
+.header8-ho7 .auto-group-7vk5-hCm .arrows-ds7 .fa-angle-left-yg5 {
+  margin-right: 114rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: FontAwesome, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header8-ho7 .auto-group-7vk5-hCm .arrows-ds7 .fa-angle-right-uZj {
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: FontAwesome, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header8-ho7 .auto-group-7vk5-hCm .text-SZf {
+  width: 72.6rem;
+  height: 26.3rem;
+  position: absolute;
+  left: 22.6rem;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.header8-ho7 .auto-group-7vk5-hCm .text-SZf .startup-3-ZPP {
+  margin: 0rem 0.2rem 2.18rem 0rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  letter-spacing: -0.0293rem;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header8-ho7 .auto-group-7vk5-hCm .text-SZf .forget-about-code-4b3 {
+  margin: 0rem 0rem 2.72rem 0.1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 7.2rem;
+  font-weight: 700;
+  line-height: 1.1944444444;
+  letter-spacing: -0.1rem;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header8-ho7 .auto-group-7vk5-hCm .text-SZf .startup-framework-gi-Znh {
+  max-width: 72.6rem;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 500;
+  line-height: 1.4545454545;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.header8-ho7 .paginator-white-h8D {
+  margin: 0rem 54.4rem 5.8rem 54.3rem;
+  width: calc(100% - 108.7rem);
+  height: 1.1rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.header8-ho7 .paginator-white-h8D .dots-d1s {
+  width: 8.8rem;
+  height: 3.6rem;
+  display: flex;
+  column-gap: 1.2rem;
+  align-items: center;
+}
+.header8-ho7 .paginator-white-h8D .dots-d1s .fa-circle-ksB {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 3;
+  color: #ffffff;
+  font-family: FontAwesome, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header8-ho7 .paginator-white-h8D .dots-d1s .fa-circle-o-JNu {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 3;
+  color: #ffffff;
+  font-family: FontAwesome, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header8-ho7 .paginator-white-h8D .dots-d1s .fa-circle-o-r9X {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 3;
+  color: #ffffff;
+  font-family: FontAwesome, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header8-ho7 .paginator-white-h8D .dots-d1s .fa-circle-o-CUH {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 3;
+  color: #ffffff;
+  font-family: FontAwesome, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header8-ho7 .paginator-white-h8D .dots-d1s .fa-circle-o-Yo3 {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 3;
+  color: #ffffff;
+  font-family: FontAwesome, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header8-ho7 .middle-fill-VyB {
+  margin: 0 47.4rem;
+  width: calc(100% - 94.8rem);
+  height: 6rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.4444444444;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #482be7;
+  border-radius: 10rem;
+  flex-shrink: 0;
+}

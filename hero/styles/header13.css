@@ -1,0 +1,182 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 140rem;
+}.header13-Spy {
+  box-sizing: border-box;
+  padding: 5.4rem 21.5rem 13.2rem 21.4rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/image-bg.png');
+  background-color: #2f1893;
+}
+.header13-Spy .header-menu-Yt1 {
+  margin-bottom: 8.6rem;
+  width: 100%;
+  height: 4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.header13-Spy .header-menu-Yt1 .auto-group-yujs-gjK {
+  box-sizing: border-box;
+  padding: 0.5rem 15.2rem 0.3rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.header13-Spy .header-menu-Yt1 .auto-group-yujs-gjK .startup-3-cN5 {
+  margin-right: 15.4rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  letter-spacing: -0.0293rem;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header13-Spy .header-menu-Yt1 .auto-group-yujs-gjK .menu-7pd {
+  margin: 0.4rem 0rem 0.2rem 0rem;
+  height: calc(100% - 0.6rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.header13-Spy .header-menu-Yt1 .auto-group-yujs-gjK .menu-7pd .tour-dny {
+  margin-right: 2.9rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.4444444444;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header13-Spy .header-menu-Yt1 .auto-group-yujs-gjK .menu-7pd .features-Mys {
+  margin-right: 3.4rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.4444444444;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header13-Spy .header-menu-Yt1 .auto-group-yujs-gjK .menu-7pd .pricing-hXw {
+  margin-right: 3.3rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.4444444444;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header13-Spy .header-menu-Yt1 .auto-group-yujs-gjK .menu-7pd .blog-Ryj {
+  margin-right: 3.3rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.4444444444;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header13-Spy .header-menu-Yt1 .auto-group-yujs-gjK .menu-7pd .fa-dribbble-yEZ {
+  margin: 0.1rem 3.5rem 0rem 0rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: FontAwesome, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header13-Spy .header-menu-Yt1 .auto-group-yujs-gjK .menu-7pd .fa-instagram-5oP {
+  margin: 0.1rem 3.5rem 0rem 0rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: FontAwesome, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header13-Spy .header-menu-Yt1 .auto-group-yujs-gjK .menu-7pd .fa-behance-cYR {
+  margin-top: 0.1rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: FontAwesome, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header13-Spy .header-menu-Yt1 .small-fill-9HT {
+  width: 12rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.375;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #482be7;
+  border-radius: 10rem;
+  flex-shrink: 0;
+}
+.header13-Spy .create-sites-without-routine-qAH {
+  margin: 0rem 1.1rem 3.8rem 0rem;
+  max-width: 53.2rem;
+  text-align: center;
+  font-size: 7.2rem;
+  font-weight: 700;
+  line-height: 1.1944444444;
+  letter-spacing: -0.1rem;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.header13-Spy .startup-gives-you-complete-freedom-over-your-creative-process-you-dont-have-to-think-about-any-technical-aspects-there-are-no-limits-and-absolutely-no-coding-izm {
+  margin-left: 0.2rem;
+  max-width: 51.3rem;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 500;
+  line-height: 1.4545454545;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}

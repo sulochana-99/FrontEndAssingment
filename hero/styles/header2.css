@@ -1,0 +1,188 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 140rem;
+}.header2-gWm {
+  box-sizing: border-box;
+  padding: 5.3rem 12.6rem 11.86rem 11.5rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #2f1893;
+}
+.header2-gWm .header-menu-QBs {
+  margin-bottom: 8.9rem;
+  width: 100%;
+  height: 4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.header2-gWm .header-menu-QBs .auto-group-jfbf-jjw {
+  box-sizing: border-box;
+  padding-right: 3.6rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.header2-gWm .header-menu-QBs .auto-group-jfbf-jjw .startup-3-g9P {
+  margin: 0rem 71.9rem 0.4rem 0rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.0293rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header2-gWm .header-menu-QBs .auto-group-jfbf-jjw .subscribe-MWR {
+  margin: 0.28rem 3.3rem 0rem 0rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.5555555556;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header2-gWm .header-menu-QBs .auto-group-jfbf-jjw .features-TZT {
+  margin-top: 0.28rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.5555555556;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header2-gWm .header-menu-QBs .middle-fill-Pi1 {
+  width: 10rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.4444444444;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #482be7;
+  border-radius: 10rem;
+  flex-shrink: 0;
+}
+.header2-gWm .text-VFF {
+  margin: 0rem 26.85rem 7.32rem 27.95rem;
+  width: calc(100% - 54.8rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.header2-gWm .text-VFF .lets-make-design-fa-pHX {
+  margin-bottom: 4.38rem;
+  max-width: 61.1rem;
+  text-align: center;
+  font-size: 7.2rem;
+  font-weight: 700;
+  line-height: 1.1944444444;
+  letter-spacing: -0.1rem;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.header2-gWm .text-VFF .the-most-important-p-KVB {
+  margin-left: 0.1rem;
+  max-width: 60.6rem;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 500;
+  line-height: 1.4545454545;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.header2-gWm .auto-group-tjey-cz5 {
+  margin: 0rem 33.4rem 0rem 34.5rem;
+  width: calc(100% - 67.9rem);
+  height: 11.44rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.header2-gWm .auto-group-tjey-cz5 .subscribe-form-HqK {
+  width: 42.5rem;
+  height: 11.44rem;
+  position: absolute;
+  left: 5.5rem;
+  top: 0;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  border-radius: 3rem;
+}
+.header2-gWm .auto-group-tjey-cz5 .subscribe-form-HqK .button-Quw {
+  margin-bottom: 3.24rem;
+  width: 12rem;
+  height: 6rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.3;
+  letter-spacing: -0.025rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #25dac4;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.header2-gWm .auto-group-tjey-cz5 .subscribe-form-HqK .by-signing-up-you-a-Ueu {
+  margin-right: 5.3rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  letter-spacing: -0.02rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header2-gWm .auto-group-tjey-cz5 .big-white-outline-ZwF {
+  box-sizing: border-box;
+  padding: 1.8rem 2.4rem 1.6rem 2.4rem;
+  width: 35rem;
+  height: 6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.3;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.2rem rgba(255, 255, 255, 0.200000003);
+  border-radius: 10rem;
+}

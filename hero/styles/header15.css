@@ -1,0 +1,314 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 140rem;
+}.header15-CUy {
+  width: 100%;
+  height: 100rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+}
+.header15-CUy .background-9f7 {
+  box-sizing: border-box;
+  padding: 3.5rem 18.7rem 29.38rem 18.7rem;
+  width: 160rem;
+  height: 120rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.header15-CUy .background-9f7 .header-menu-4XB {
+  margin: 0rem 20.1rem 8.5rem 0rem;
+  height: 4.1rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.header15-CUy .background-9f7 .header-menu-4XB .startup-3-bGD {
+  margin: 0rem 20.1rem 0.9rem 0rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  letter-spacing: -0.0293rem;
+  color: #1e0d62;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header15-CUy .background-9f7 .header-menu-4XB .menu-V6h {
+  margin: 1rem 13.8rem 0.9rem 0rem;
+  height: calc(100% - 1.9rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.header15-CUy .background-9f7 .header-menu-4XB .menu-V6h .tour-D2h {
+  margin-right: 3.2rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.375;
+  color: rgba(21, 20, 56, 0.400000006);
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header15-CUy .background-9f7 .header-menu-4XB .menu-V6h .prices-8vM {
+  margin-right: 3rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.375;
+  color: rgba(21, 20, 56, 0.400000006);
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header15-CUy .background-9f7 .header-menu-4XB .menu-V6h .about-UUR {
+  margin-right: 3.1rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.375;
+  color: rgba(21, 20, 56, 0.400000006);
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header15-CUy .background-9f7 .header-menu-4XB .menu-V6h .faq-bow {
+  margin-right: 2.9rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.375;
+  color: rgba(21, 20, 56, 0.400000006);
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header15-CUy .background-9f7 .header-menu-4XB .menu-V6h .support-M2R {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.375;
+  color: rgba(21, 20, 56, 0.400000006);
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header15-CUy .background-9f7 .header-menu-4XB .sign-up-smT {
+  margin-top: 0.1rem;
+  height: 4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.header15-CUy .background-9f7 .header-menu-4XB .sign-up-smT .login-E6D {
+  margin: 0rem 3.2rem 0.4rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.375;
+  color: #25dac4;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header15-CUy .background-9f7 .header-menu-4XB .sign-up-smT .middle-fill-ZPP {
+  width: 10rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.4444444444;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #25dac4;
+  border-radius: 10rem;
+  flex-shrink: 0;
+}
+.header15-CUy .background-9f7 .text-pq7 {
+  margin: 0rem 36.55rem 11.1rem 16.55rem;
+  width: calc(100% - 53.1rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.header15-CUy .background-9f7 .text-pq7 .build-your-own-site-Ma9 {
+  margin-bottom: 3.2rem;
+  max-width: 69.5rem;
+  text-align: center;
+  font-size: 5.8rem;
+  font-weight: 700;
+  line-height: 1.2068965517;
+  letter-spacing: -0.1rem;
+  color: #1e0d62;
+  font-family: DM Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.header15-CUy .background-9f7 .text-pq7 .we-have-created-a-ne-4jT {
+  margin: 0rem 0rem 5.9rem 0.1rem;
+  max-width: 57.9rem;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 500;
+  line-height: 1.4545454545;
+  color: rgba(21, 20, 56, 0.400000006);
+  font-family: DM Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.header15-CUy .background-9f7 .text-pq7 .big-fill-ZgD {
+  margin: 0rem 23.45rem 0rem 19.25rem;
+  width: calc(100% - 42.7rem);
+  height: 6rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.3;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #e8397d;
+  border-radius: 10rem;
+  flex-shrink: 0;
+}
+.header15-CUy .background-9f7 .features-2Ju {
+  margin-right: 19.8rem;
+  height: 24.7199rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.header15-CUy .background-9f7 .features-2Ju .feature-1-Mry {
+  margin-right: 8.4rem;
+  box-sizing: border-box;
+  padding: 0 0.05rem;
+  width: 22.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.header15-CUy .background-9f7 .features-2Ju .feature-1-Mry .photo-Hkd {
+  margin: 0rem 2.95rem 2.52rem 2.75rem;
+  width: calc(100% - 5.7rem);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.header15-CUy .background-9f7 .features-2Ju .feature-1-Mry .photo-Hkd .mask-Rrq {
+  width: 17rem;
+  height: 11rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+}
+.header15-CUy .background-9f7 .features-2Ju .feature-1-Mry .a-high-quality-solut-xbs {
+  max-width: 22.7rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.5555555556;
+  color: rgba(21, 20, 56, 0.400000006);
+  font-family: DM Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.header15-CUy .background-9f7 .features-2Ju .auto-group-hwqr-Fqs {
+  margin-right: 8.7rem;
+  width: 40.1rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.header15-CUy .background-9f7 .features-2Ju .auto-group-hwqr-Fqs .lines-oMb {
+  width: 40.1rem;
+  height: 10.9rem;
+  position: absolute;
+  left: 0;
+  top: 0.1rem;
+}
+.header15-CUy .background-9f7 .features-2Ju .auto-group-hwqr-Fqs .feature-2-wTo {
+  box-sizing: border-box;
+  padding: 0 0.4rem;
+  width: 22.8rem;
+  height: 24.7199rem;
+  position: absolute;
+  left: 8.8rem;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border-radius: 1rem;
+}
+.header15-CUy .background-9f7 .features-2Ju .auto-group-hwqr-Fqs .feature-2-wTo .photo-4HX {
+  margin: 0rem 2.6rem 2.52rem 2.4rem;
+  width: calc(100% - 5rem);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.header15-CUy .background-9f7 .features-2Ju .auto-group-hwqr-Fqs .feature-2-wTo .photo-4HX .mask-Pah {
+  width: 17rem;
+  height: 11rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+}
+.header15-CUy .background-9f7 .features-2Ju .auto-group-hwqr-Fqs .feature-2-wTo .startups-can-save-mo-iN5 {
+  max-width: 22rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.5555555556;
+  color: rgba(21, 20, 56, 0.400000006);
+  font-family: DM Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.header15-CUy .background-9f7 .features-2Ju .feature-3-pvu {
+  box-sizing: border-box;
+  padding: 0 1.3rem;
+  width: 22.8rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.header15-CUy .background-9f7 .features-2Ju .feature-3-pvu .photo-NhX {
+  margin: 0rem 1.7rem 2.52rem 1.5rem;
+  width: calc(100% - 3.2rem);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.header15-CUy .background-9f7 .features-2Ju .feature-3-pvu .photo-NhX .mask-Kcm {
+  width: 17rem;
+  height: 11rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+}
+.header15-CUy .background-9f7 .features-2Ju .feature-3-pvu .startup-framework-in-fAq {
+  max-width: 20.2rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.5555555556;
+  color: rgba(21, 20, 56, 0.400000006);
+  font-family: DM Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}

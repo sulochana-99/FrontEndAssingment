@@ -1,0 +1,191 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 140rem;
+}.header11-hcM {
+  box-sizing: border-box;
+  padding: 6.6rem 21.456rem 14.2rem 21.5rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.header11-hcM .header-menu-2ed {
+  margin: 0rem 0.044rem 6.7rem 0.1rem;
+  width: calc(100% - 0.1443rem);
+  height: 4rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.header11-hcM .header-menu-2ed .startup-3-Yss {
+  margin-right: 47.7rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  letter-spacing: -0.0293rem;
+  color: #1e0d62;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header11-hcM .header-menu-2ed .menu-TV3 {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.header11-hcM .header-menu-2ed .menu-TV3 .auto-group-n5kf-p4h {
+  box-sizing: border-box;
+  padding: 0.7rem 3.3rem 0.7rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.header11-hcM .header-menu-2ed .menu-TV3 .auto-group-n5kf-p4h .tour-jxM {
+  margin-right: 3.1rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.4444444444;
+  color: #1e0d62;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header11-hcM .header-menu-2ed .menu-TV3 .auto-group-n5kf-p4h .tour-g6u {
+  margin-right: 3.4rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.4444444444;
+  color: #1e0d62;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header11-hcM .header-menu-2ed .menu-TV3 .auto-group-n5kf-p4h .about-1Q5 {
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.4444444444;
+  color: #1e0d62;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header11-hcM .header-menu-2ed .menu-TV3 .middle-fill-jay {
+  width: 8rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.4444444444;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #482be7;
+  border-radius: 10rem;
+  flex-shrink: 0;
+}
+.header11-hcM .auto-group-ty2u-DW9 {
+  width: 100%;
+  height: 61.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.header11-hcM .auto-group-ty2u-DW9 .text-yER {
+  margin: 4.7rem 15.8rem 9.5rem 0rem;
+  width: 34.2rem;
+  height: calc(100% - 14.2rem);
+  flex-shrink: 0;
+}
+.header11-hcM .auto-group-ty2u-DW9 .text-yER .you-have-the-design-6Zw {
+  margin-bottom: 2.5rem;
+  max-width: 34.2rem;
+  font-size: 5.8rem;
+  font-weight: 700;
+  line-height: 1.2068965517;
+  letter-spacing: -0.1rem;
+  color: #1e0d62;
+  font-family: DM Sans, 'Source Sans Pro';
+}
+.header11-hcM .auto-group-ty2u-DW9 .text-yER .we-havent-forgotten-R6R {
+  margin-bottom: 6rem;
+  max-width: 33.8rem;
+  font-size: 2.2rem;
+  font-weight: 500;
+  line-height: 1.4545454545;
+  color: rgba(21, 20, 56, 0.400000006);
+  font-family: DM Sans, 'Source Sans Pro';
+}
+.header11-hcM .auto-group-ty2u-DW9 .text-yER .auto-group-5ytu-ibK {
+  margin: 0rem 5.65rem 0rem 0.2rem;
+  width: calc(100% - 5.85rem);
+  height: 5rem;
+  display: flex;
+  align-items: center;
+}
+.header11-hcM .auto-group-ty2u-DW9 .text-yER .auto-group-5ytu-ibK .middle-fill-SXK {
+  margin-right: 3.55rem;
+  width: 15.3rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.4444444444;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #25dac4;
+  border-radius: 10rem;
+  flex-shrink: 0;
+}
+.header11-hcM .auto-group-ty2u-DW9 .text-yER .auto-group-5ytu-ibK .sign-up-XHs {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.4444444444;
+  color: #1e0d62;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header11-hcM .auto-group-ty2u-DW9 .ipad-pro-Ei5 {
+  box-sizing: border-box;
+  padding: 1.966rem 1.965rem 1.902rem 2.029rem;
+  height: 100%;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ipad-pro-bg-cSM.png');
+  flex-shrink: 0;
+}
+.header11-hcM .auto-group-ty2u-DW9 .ipad-pro-Ei5 .screen-mi1 {
+  width: 43.05rem;
+  height: 57.6324rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.1rem;
+}

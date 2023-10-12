@@ -1,0 +1,228 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 140rem;
+}.header21-iG9 {
+  box-sizing: border-box;
+  padding: 4.9rem 21.5rem 12.68rem 21.5rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('REPLACE_IMAGE:495a76abfa6125a690a426b8fcb3bbfd55392e02');
+  background-color: #2f1893;
+}
+.header21-iG9 .header-menu-ppy {
+  margin-bottom: 7.4rem;
+  width: 100%;
+  height: 4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.header21-iG9 .header-menu-ppy .auto-group-ruus-M4D {
+  box-sizing: border-box;
+  padding: 0.5rem 12.9rem 0.3rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.header21-iG9 .header-menu-ppy .auto-group-ruus-M4D .startup-3-4jK {
+  margin-right: 22.1rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  letter-spacing: -0.0293rem;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header21-iG9 .header-menu-ppy .auto-group-ruus-M4D .menu-AnM {
+  margin: 0.6rem 0rem 0.4rem 0rem;
+  height: calc(100% - 1rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.header21-iG9 .header-menu-ppy .auto-group-ruus-M4D .menu-AnM .get-the-app-VZj {
+  margin-right: 3rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.375;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header21-iG9 .header-menu-ppy .auto-group-ruus-M4D .menu-AnM .features-DVj {
+  margin-right: 3.3rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.375;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header21-iG9 .header-menu-ppy .auto-group-ruus-M4D .menu-AnM .about-MM3 {
+  margin-right: 3.1rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.375;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header21-iG9 .header-menu-ppy .auto-group-ruus-M4D .menu-AnM .faq-5Xw {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.375;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header21-iG9 .header-menu-ppy .small-white-outline-pVX {
+  margin-right: 2rem;
+  width: 9rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.375;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.2rem rgba(255, 255, 255, 0.3000000119);
+  box-sizing: border-box;
+  border-radius: 10rem;
+  flex-shrink: 0;
+}
+.header21-iG9 .header-menu-ppy .small-fill-5gM {
+  width: 9rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.375;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #482be7;
+  border-radius: 10rem;
+  flex-shrink: 0;
+}
+.header21-iG9 .startup-framework-s-ASu {
+  margin-bottom: 10rem;
+  max-width: 55.4rem;
+  text-align: center;
+  font-size: 5.8rem;
+  font-weight: 700;
+  line-height: 1.2068965517;
+  letter-spacing: -0.1rem;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.header21-iG9 .icon-fill-ess {
+  margin: 0rem 45rem 11rem 45rem;
+  width: calc(100% - 90rem);
+  height: 7rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: FontAwesome, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #ea3223;
+  border-radius: 10rem;
+  flex-shrink: 0;
+}
+.header21-iG9 .auto-group-vbaz-Hfw {
+  margin: 0rem 15.8rem 0rem 14.9rem;
+  width: calc(100% - 30.7rem);
+  height: 10.0199rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.header21-iG9 .auto-group-vbaz-Hfw .feature-1-Cnu {
+  margin-right: 8.6rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.header21-iG9 .auto-group-vbaz-Hfw .feature-1-Cnu .drag-and-drop-genera-m5K {
+  margin-bottom: 1.6199rem;
+  font-size: 2.2rem;
+  font-weight: 500;
+  line-height: 1.4545454545;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header21-iG9 .auto-group-vbaz-Hfw .feature-1-Cnu .build-your-site-quic-hDs {
+  max-width: 31.6rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.header21-iG9 .auto-group-vbaz-Hfw .feature-2-Rff {
+  margin-bottom: 0.0199rem;
+  height: calc(100% - 0.0199rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.header21-iG9 .auto-group-vbaz-Hfw .feature-2-Rff .share-export-to-ht-kxq {
+  margin-bottom: 1.6rem;
+  font-size: 2.2rem;
+  font-weight: 500;
+  line-height: 1.4545454545;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header21-iG9 .auto-group-vbaz-Hfw .feature-2-Rff .save-time-and-energy-617 {
+  max-width: 26.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}

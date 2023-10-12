@@ -1,0 +1,174 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 140rem;
+}.header7-d9b {
+  box-sizing: border-box;
+  padding-left: 11.6rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.header7-d9b .auto-group-seq1-MrH {
+  margin: 0rem 13.3rem 8.15rem 0rem;
+  width: 56.6rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.header7-d9b .auto-group-seq1-MrH .header-menu-gdf {
+  width: 100%;
+  height: 3.2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.header7-d9b .auto-group-seq1-MrH .header-menu-gdf .startup-3-qFf {
+  margin-right: 32.1rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  letter-spacing: -0.0293rem;
+  color: #1e0d62;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header7-d9b .auto-group-seq1-MrH .header-menu-gdf .menu-Yfs {
+  margin: 0.45rem 0rem 0.55rem 0rem;
+  height: calc(100% - 1rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.header7-d9b .auto-group-seq1-MrH .header-menu-gdf .menu-Yfs .pricing-tDw {
+  margin-right: 3.8rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.375;
+  color: rgba(21, 20, 56, 0.400000006);
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header7-d9b .auto-group-seq1-MrH .header-menu-gdf .menu-Yfs .about-orh {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.375;
+  color: rgba(21, 20, 56, 0.400000006);
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header7-d9b .auto-group-seq1-MrH .auto-group-zbeq-Y3b {
+  box-sizing: border-box;
+  padding-top: 11.9498rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.header7-d9b .auto-group-seq1-MrH .auto-group-zbeq-Y3b .text-TwF {
+  margin-bottom: 7.1rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.header7-d9b .auto-group-seq1-MrH .auto-group-zbeq-Y3b .text-TwF .great-tool-to-boost-d53 {
+  margin-bottom: 2.6rem;
+  max-width: 51.9rem;
+  font-size: 5.8rem;
+  font-weight: 700;
+  line-height: 1.2068965517;
+  letter-spacing: -0.1rem;
+  color: #1e0d62;
+  font-family: DM Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.header7-d9b .auto-group-seq1-MrH .auto-group-zbeq-Y3b .text-TwF .we-made-it-so-beutif-wLd {
+  max-width: 46.6rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.5555555556;
+  color: rgba(21, 20, 56, 0.400000006);
+  font-family: DM Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.header7-d9b .auto-group-seq1-MrH .auto-group-zbeq-Y3b .call-to-action-4AM {
+  margin-left: 0.1rem;
+  width: 35.4rem;
+  flex-shrink: 0;
+}
+.header7-d9b .auto-group-seq1-MrH .auto-group-zbeq-Y3b .call-to-action-4AM .auto-group-cvmx-zph {
+  margin: 0rem 0.4rem 2rem 0rem;
+  width: calc(100% - 0.4rem);
+  display: flex;
+  align-items: center;
+}
+.header7-d9b .auto-group-seq1-MrH .auto-group-zbeq-Y3b .call-to-action-4AM .auto-group-cvmx-zph .middle-fill-j1b {
+  margin: 0rem 1rem 0.1rem 0rem;
+  width: 17rem;
+  height: 6rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.4444444444;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #25dac4;
+  border-radius: 10rem;
+  flex-shrink: 0;
+}
+.header7-d9b .auto-group-seq1-MrH .auto-group-zbeq-Y3b .call-to-action-4AM .auto-group-cvmx-zph .middle-dark-outline-zCR {
+  margin-top: 0.1rem;
+  width: 17rem;
+  height: 6rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.4444444444;
+  color: #1e0d62;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.2rem #eaeaed;
+  box-sizing: border-box;
+  border-radius: 10rem;
+  flex-shrink: 0;
+}
+.header7-d9b .auto-group-seq1-MrH .auto-group-zbeq-Y3b .call-to-action-4AM .by-signing-up-you-a-TLu {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: rgba(21, 20, 56, 0.400000006);
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.header7-d9b .photo-B21 {
+  width: 58.5rem;
+  height: 81rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}

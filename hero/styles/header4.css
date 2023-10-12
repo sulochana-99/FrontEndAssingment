@@ -1,0 +1,184 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 140rem;
+}.header4-35K {
+  box-sizing: border-box;
+  padding: 4.5rem 12.6rem 10.2rem 11.6rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.header4-35K .header-menu-m1K {
+  margin-bottom: 7.8rem;
+  width: 100%;
+  height: 3.2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.header4-35K .header-menu-m1K .startup-3-6pH {
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  letter-spacing: -0.0293rem;
+  color: #1e0d62;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header4-35K .header-menu-m1K .auto-group-8vk9-D8D {
+  box-sizing: border-box;
+  padding: 0.54rem 0rem 0.06rem 3.2rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.header4-35K .header-menu-m1K .auto-group-8vk9-D8D .menu-jMT {
+  margin-right: 45.5rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.header4-35K .header-menu-m1K .auto-group-8vk9-D8D .menu-jMT .features-GsB {
+  margin-right: 3.4rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.4444444444;
+  color: rgba(21, 20, 56, 0.400000006);
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header4-35K .header-menu-m1K .auto-group-8vk9-D8D .menu-jMT .downloads-ocD {
+  margin-right: 3.6rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.4444444444;
+  color: rgba(21, 20, 56, 0.400000006);
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header4-35K .header-menu-m1K .auto-group-8vk9-D8D .menu-jMT .docs-k1f {
+  margin-right: 3.2rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.4444444444;
+  color: rgba(21, 20, 56, 0.400000006);
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header4-35K .header-menu-m1K .auto-group-8vk9-D8D .menu-jMT .support-UiM {
+  margin-right: 3.2rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.4444444444;
+  color: rgba(21, 20, 56, 0.400000006);
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header4-35K .header-menu-m1K .auto-group-8vk9-D8D .menu-jMT .blog-pnD {
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.4444444444;
+  color: rgba(21, 20, 56, 0.400000006);
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header4-35K .header-menu-m1K .auto-group-8vk9-D8D .socials-Zjo {
+  margin-top: 0.22rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.header4-35K .header-menu-m1K .auto-group-8vk9-D8D .socials-Zjo .fa-twitter-KDB {
+  margin-right: 4.2rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: rgba(21, 20, 56, 0.400000006);
+  font-family: FontAwesome, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header4-35K .header-menu-m1K .auto-group-8vk9-D8D .socials-Zjo .fa-facebook-square-F6q {
+  margin-right: 3.8rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: rgba(21, 20, 56, 0.400000006);
+  font-family: FontAwesome, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header4-35K .header-menu-m1K .auto-group-8vk9-D8D .socials-Zjo .fa-google-plus-ZtD {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: rgba(21, 20, 56, 0.400000006);
+  font-family: FontAwesome, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.header4-35K .simple-and-beautiful-6dF {
+  margin: 0rem 0rem 8.9rem 1.4rem;
+  max-width: 75.1rem;
+  text-align: center;
+  font-size: 5.8rem;
+  font-weight: 700;
+  line-height: 1.2068965517;
+  letter-spacing: -0.1rem;
+  color: #1e0d62;
+  font-family: DM Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.header4-35K .placeholder-CRP {
+  margin: 0rem 18.9rem 0rem 19.9rem;
+  box-sizing: border-box;
+  padding: 18.2rem 35rem;
+  width: calc(100% - 38.8rem);
+  height: 43.4rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/image-bg-761.png');
+  flex-shrink: 0;
+}
+.header4-35K .placeholder-CRP .icon-fill-JUR {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: FontAwesome, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #ea3223;
+  border-radius: 10rem;
+}

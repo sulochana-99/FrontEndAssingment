@@ -1,0 +1,275 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 140rem;
+}.header19-MH3 {
+  padding: 9rem 11.5rem 13.5rem 11.5rem;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  background-color: #ffffff;
+  box-sizing: border-box;
+  width: 100%;
+  overflow: hidden;
+
+  .header-menu-gKK {
+    margin: 0rem 32rem 7.2rem 31.7rem;
+    width: calc(100% - 63.7rem);
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+
+    .startup-3-cTs {
+      margin: 0rem 0rem 3.24rem 0.3rem;
+      font-size: 2.4rem;
+      white-space: nowrap;
+      text-align: center;
+      font-weight: 700;
+      line-height: 1.3025;
+      letter-spacing: -0.0293rem;
+      color: #1e0d62;
+      font-family: DM Sans, 'Source Sans Pro';
+      flex-shrink: 0;
+    }
+    .menu-vDf {
+      display: flex;
+      align-items: flex-start;
+      flex-shrink: 0;
+      width: 100%;
+
+      .home-UFB {
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin-right: 3.9rem;
+        font-size: 1.6rem;
+        font-weight: 500;
+        line-height: 1.375;
+        color: rgba(21, 20, 56, 0.400000006);
+        font-family: DM Sans, 'Source Sans Pro';
+      }
+      .features-u5b {
+        font-size: 1.6rem;
+        font-weight: 500;
+        line-height: 1.375;
+        color: rgba(21, 20, 56, 0.400000006);
+        font-family: DM Sans, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin-right: 3.8rem;
+      }
+      .about-2vu {
+        line-height: 1.375;
+        color: rgba(21, 20, 56, 0.400000006);
+        font-family: DM Sans, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin-right: 3.7rem;
+        font-size: 1.6rem;
+        font-weight: 500;
+      }
+      .blog-ybF {
+        line-height: 1.375;
+        color: rgba(21, 20, 56, 0.400000006);
+        font-family: DM Sans, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin-right: 4rem;
+        font-size: 1.6rem;
+        font-weight: 500;
+      }
+      .contact-us-Wr5 {
+        font-family: DM Sans, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin-right: 3.7rem;
+        font-size: 1.6rem;
+        font-weight: 500;
+        line-height: 1.375;
+        color: rgba(21, 20, 56, 0.400000006);
+      }
+      .fa-product-hunt-TFX {
+        font-family: FontAwesome, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin: 0.06rem 4.5rem 0rem 0rem;
+        font-size: 1.8rem;
+        font-weight: 400;
+        line-height: 1.2575;
+        color: rgba(21, 20, 56, 0.400000006);
+      }
+      .fa-apple-NdP {
+        line-height: 1.2575;
+        color: rgba(21, 20, 56, 0.400000006);
+        font-family: FontAwesome, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin-top: 0.06rem;
+        font-size: 1.8rem;
+        font-weight: 400;
+      }
+    }
+  }
+  .auto-group-qykp-WUh {
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+    margin-right: 12.3rem;
+    width: calc(100% - 12.3rem);
+    height: 51.5rem;
+
+    .auto-group-5jst-SdF {
+      height: 100%;
+      display: flex;
+      align-items: center;
+      flex-shrink: 0;
+      box-sizing: border-box;
+      padding: 0.3rem 10.3rem 0.3rem 0rem;
+
+      .paginator-black-Ap9 {
+        margin: 15.5rem 8.9rem 26.3rem 0rem;
+        width: 1.1rem;
+        height: calc(100% - 41.8rem);
+        overflow: hidden;
+        position: relative;
+        flex-shrink: 0;
+
+        .dots-gXb {
+          width: 0.8rem;
+          height: 11.6rem;
+          position: relative;
+
+          .fa-circle-dSq {
+            left: 0;
+            color: #eaeaed;
+            font-family: FontAwesome, 'Source Sans Pro';
+            white-space: nowrap;
+            width: 0.8rem;
+            height: 3.6rem;
+            font-size: 1.2rem;
+            font-weight: 400;
+            line-height: 3;
+            position: absolute;
+            top: 8rem;
+          }
+          .fa-circle-wiR {
+            font-size: 1.2rem;
+            color: #eaeaed;
+            font-family: FontAwesome, 'Source Sans Pro';
+            white-space: nowrap;
+            width: 0.8rem;
+            height: 3.6rem;
+            position: absolute;
+            top: 6rem;
+            left: 0rem;
+            font-weight: 400;
+            line-height: 3;
+          }
+          .fa-circle-rKb {
+            width: 0.8rem;
+            font-weight: 400;
+            white-space: nowrap;
+            font-family: FontAwesome, 'Source Sans Pro';
+            height: 3.6rem;
+            position: absolute;
+            left: 0rem;
+            top: 4rem;
+            font-size: 1.2rem;
+            line-height: 3;
+            color: #eaeaed;
+          }
+          .fa-circle-mSZ {
+            line-height: 3;
+            font-family: FontAwesome, 'Source Sans Pro';
+            white-space: nowrap;
+            height: 3.6rem;
+            position: absolute;
+            top: 2rem;
+            font-size: 1.2rem;
+            width: 0.8rem;
+            left: 0rem;
+            font-weight: 400;
+            color: #eaeaed;
+          }
+          .fa-circle-gZX {
+            width: 0.8rem;
+            height: 3.6rem;
+            position: absolute;
+            font-size: 1.2rem;
+            font-weight: 400;
+            line-height: 3;
+            font-family: FontAwesome, 'Source Sans Pro';
+            white-space: nowrap;
+            left: 0rem;
+            top: 0;
+            color: #e8397d;
+          }
+        }
+      }
+      .text-cTB {
+        margin-bottom: 1.8rem;
+        display: flex;
+        flex-direction: column;
+        flex-shrink: 0;
+
+        .the-best-apple-watch-mL5 {
+          margin: 0rem 0rem 3.7rem 0.1rem;
+          max-width: 42.7rem;
+          font-family: DM Sans, 'Source Sans Pro';
+          flex-shrink: 0;
+          font-size: 5.8rem;
+          font-weight: 700;
+          line-height: 1.2068965517;
+          letter-spacing: -0.1rem;
+          color: #1e0d62;
+        }
+        .startup-framework-gi-rsK {
+          font-weight: 500;
+          line-height: 1.4545454545;
+          color: rgba(21, 20, 56, 0.400000006);
+          font-family: DM Sans, 'Source Sans Pro';
+          flex-shrink: 0;
+          margin-bottom: 9.4rem;
+          max-width: 44.9rem;
+          font-size: 2.2rem;
+        }
+        .middle-fill-yww {
+          line-height: 1.4444444444;
+          white-space: nowrap;
+          flex-shrink: 0;
+          width: 30rem;
+          align-items: center;
+          justify-content: center;
+          background-color: #482be7;
+          height: 6rem;
+          display: flex;
+          font-weight: 500;
+          color: #ffffff;
+          font-size: 1.8rem;
+          font-family: DM Sans, 'Source Sans Pro';
+          border-radius: 10rem;
+        }
+      }
+    }
+    .image-fpm {
+      width: 39.5rem;
+      height: 51.5rem;
+      object-fit: cover;
+      vertical-align: top;
+      flex-shrink: 0;
+    }
+  }
+}
